@@ -28,15 +28,15 @@
 
 
 ## 目前的個人品牌
-* PosetMage [posetmage.com](posetmage.com)
+* PosetMage [posetmage.com](https://posetmage.com)
   * 主要專注在ACGN相關的事物上，比如遊戲設計，內容將會是英文或日文。
   * 本來是有規劃流量漏斗，想透過寫遊戲設計技術文章，經營個人品牌還有遊戲製作，讓人訂閱Patreon。
   * 漸漸開始養成寫weekly update習慣也是為了開訂閱
   * 也會想在這邊連載小說，中斷原因單純是前述那種一段時間就換了方向跑去做其他事情
-* LatticeMage [lattice.posetmage.com](lattice.posetmage.com)
+* LatticeMage [lattice.posetmage.com](https://lattice.posetmage.com)
   * ACGN以外的內容，將會是純英文
   * 之前有嘗試想要錄一些[podcast](https://www.youtube.com/@LatticeMage/videos)，中斷原因單純是前述那種一段時間就換了方向跑去做其他事情
-  * 有一個特化的AI子品牌AI-Mage [ai.posetmage.com](ai.posetmage.com)
+  * 有一個特化的AI子品牌AI-Mage [ai.posetmage.com](https://ai.posetmage.com)
     * AIGC會放在這避免汙染(GPTs、使用AI的方式、AI生產的內容)
 * 鍊金Mage
   * 中文內容，[目前文章](https://alchemy.posetmage.com/Daily/)
