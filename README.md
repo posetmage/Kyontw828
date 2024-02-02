@@ -34,9 +34,11 @@
   * 漸漸開始養成寫weekly update習慣也是為了開訂閱
   * 也會想在這邊連載小說，中斷原因單純是前述那種一段時間就換了方向跑去做其他事情
 * LatticeMage [lattice.posetmage.com](https://lattice.posetmage.com)
-  * ACGN以外的內容，將會是純英文
+  * ACGN以外的內容，逐漸將內容轉成英文
+    * 包含我個人的一些知識儲備、投影片、繪畫記錄、
   * 之前有嘗試想要錄一些[podcast](https://www.youtube.com/@LatticeMage/videos)，中斷原因單純是前述那種一段時間就換了方向跑去做其他事情
   * 有一個特化的AI子品牌AI-Mage [ai.posetmage.com](https://ai.posetmage.com)
+    * 嘗試AI相關的軟硬體領域知識
     * AIGC會放在這避免汙染(GPTs、使用AI的方式、AI生產的內容)
 * 鍊金Mage
   * 中文內容，[目前文章](https://alchemy.posetmage.com/Daily/)
