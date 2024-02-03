@@ -36,12 +36,12 @@
 
 
 ## 目前有的個人品牌
-* [PosetMage](posetmage.com)
+* [PosetMage](https://posetmage.com)
   * 主要專注在ACGN相關的事物上，比如遊戲設計，內容將會是英文或日文(移除中文部分)。
   * 本來是有規劃流量漏斗，想透過寫遊戲設計技術文章，經營個人品牌還有遊戲製作教學，讓人訂閱Patreon。
     * 開始養成寫weekly update習慣也是為了開訂閱
   * 也會想在這邊連載小說，但目前只寫了[設定集](https://posetmage.com/Novel/Setting/)
-* [LatticeMage](lattice.posetmage.com)
+* [LatticeMage](https://lattice.posetmage.com)
   * ACGN以外的內容，
     * 包含我個人的一些知識儲備、投影片、繪畫記錄、......。內容將逐漸換成純英文。
   * 之前有嘗試想要錄一些[podcast](https://www.youtube.com/@LatticeMage/videos)，中斷原因單純是前述那種一段時間就換了方向跑去做其他事情
@@ -49,7 +49,7 @@
     * [看版](https://ai.posetmage.com/Boards/)用來更新AI軟硬體等各種相關內容，目前也是中斷了
     * AIGC也會放在這避免汙染([GPTs](https://ai.posetmage.com/GPTs/)、使用AI的方式、AI生產的內容)
       * 只要我在用，有在改版GPTs或製作新的GPTs都會更新，但速度很慢
-* [鍊金Mage](alchemy.posetmage.com)
+* [鍊金Mage](https://alchemy.posetmage.com)
   * 平時會整理自己的[知識儲備](https://alchemy.posetmage.com/Content/)
   * 中文內容，[目前文章](https://alchemy.posetmage.com/Daily/)
   * 所有的中文會逐漸搬過來這，現階段也會先從這邊作為主要經營，從這邊的文章改文發去其他平台(FB, twitter, threads......)
