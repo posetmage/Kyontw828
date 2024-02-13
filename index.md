@@ -61,7 +61,8 @@ layout: notes
 
 ## 產品2: 學習遊戲製作
 ### TA: 想要做遊戲的人
-本來是有規劃流量漏斗，想透過寫遊戲設計技術文章、遊戲製作教學、經營個人品牌、直播打遊戲，讓人訂閱Patreon。
+本來是有規劃[流量漏斗+飛輪效應](https://lattice.posetmage.com/Slides/Business/Diagram.drawio.html)，想透過寫遊戲設計技術文章、遊戲製作教學、經營個人品牌、直播打遊戲，讓人訂閱Patreon。
+
 
 同時訂閱我Patreon也會收到我創作的內容，比如遊戲更新或小說更新。
 
