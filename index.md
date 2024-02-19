@@ -3,5 +3,5 @@ layout: notes
 ---
 
 * [History](./History)
-* [Business](business1.md)
+* [Business](Business.md)
 * [old](./old)
